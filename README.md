@@ -14,9 +14,8 @@ This repo contains the codes for the paper: [Sparse multi-modal probabilistic la
 
 <!-- (comming soon) -->
 
-`./codes/smplsa_l/run_pLSA.sh` script for the sMpLSA-L stage.
-
-`./codes/smplsa_h_tst/run_pLSA.sh` script for the sMpLSA-L and sMpLSA-tst stages.
+`./codes/smplsa_l/run_pLSA.sh` is the script for sMpLSA-L stage. 
+`./codes/smplsa_h_tst/run_pLSA.sh` is the script for sMpLSA-L and sMpLSA-tst stages. 
 
 
 
